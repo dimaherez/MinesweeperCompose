@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MinesweeperCompose</string>
+    <string name="win_message">Congratulations! You found all the mines!</string>
+    <string name="fail_message">You stepped on a mine and failed!</string>
+</resources>
